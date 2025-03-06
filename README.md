@@ -14,4 +14,3 @@ WhatsApp user profiles spider, user's phone, avatar, and bla... 抓取用户电�
 ![](demo/demo13.png)
 
 
-![](demo/weixin.png)
